@@ -23,7 +23,7 @@
 ## About The Project
 
 ### Short Discription
-This is a simple GUI program made in python3.9 by [Eruptedlava](https://t.me/Eruptedlava) & [SHIN](https://t.me/ShinChina)
+- This is a simple GUI program made in python3.9 by [Eruptedlava](https://t.me/Eruptedlava) & [SHIN](https://t.me/ShinChina)
 
 ### Built With
 * [Python](https://www.python.org/)
