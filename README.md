@@ -5,7 +5,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">EruptedLava"</h3>
+  <h3 align="center">EruptedLava</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -21,6 +21,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+### Short Discription
+This is a simple GUI program made in python3.9 by [Eruptedlava](https://t.me/Eruptedlava) & [SHIN](https://t.me/ShinChina)
 
 ### Built With
 * [Python](https://www.python.org/)
@@ -43,6 +46,9 @@
    ```PY
    python main.py
    ```
+ ### PC Requirements
+- RAM: `2gb`
+- Cores: `1`
 
 
 <!-- CONTRIBUTING -->
@@ -63,13 +69,37 @@ Contributions are what make the open source community such an amazing place to l
 
 [CyberSecurity Union (INDIA)](https://t.me/Pegasus_Spyware7)
 
-[Cocogon Ethical Hacking Discussion Group](https://t.me/cocogontalkwithmember)
+[Cocogon Ethical Hacking](https://t.me/cocogontalkwithmember)
 
 <!-- Special Thanks -->
 ## Special Thanks
 * [Shinchina](https://t.me/shinchina)
 * [Shubham Pandey](https://t.me/cocogonromeo)
 
-<!-- LICENSE -->
 ## License
-Distributed under the MIT License. See [LICENSE](https://github.com/EruptedLava/Map-Hunting-Game/blob/main/LICENSE) for more information.
+``` MIT License
+
+Copyright (C) [2021] Map-Hunting-Game
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "The-Map-Hunting-Game"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+<!-- LICENSE -->
+## GNU License
+Distributed under the GNU License. See [LICENSE](https://github.com/EruptedLava/Map-Hunting-Game/blob/main/LICENSE) for more information.
